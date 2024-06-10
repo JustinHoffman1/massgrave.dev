@@ -15,11 +15,11 @@ All download links lead to genuine files only.
 
 Build - 26100.1
 
-| Language            | Arch | Link                                                                                                                                         |
-|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2025_preview_x64_dvd_8b1f5b49.iso](https://drive.massgrave.dev/cs-cz_windows_server_2025_preview_x64_dvd_8b1f5b49.iso) |
-| German              | x64  | [de-de_windows_server_2025_preview_x64_dvd_1c3dfe1c.iso](https://drive.massgrave.dev/de-de_windows_server_2025_preview_x64_dvd_1c3dfe1c.iso) |
-| English             | x64  | [en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso](https://drive.massgrave.dev/en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso) |
+| Language            | Arch | Link                                                                                                                                         | Size   |
+|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------|:-------|  
+| Czech               | x64  | [cs-cz_windows_server_2025_preview_x64_dvd_8b1f5b49.iso](https://drive.massgrave.dev/cs-cz_windows_server_2025_preview_x64_dvd_8b1f5b49.iso) |        |        
+| German              | x64  | [de-de_windows_server_2025_preview_x64_dvd_1c3dfe1c.iso](https://drive.massgrave.dev/de-de_windows_server_2025_preview_x64_dvd_1c3dfe1c.iso) |        |         
+| English             | x64  | [en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso](https://drive.massgrave.dev/en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso) | 5.2 GB |
 | Spanish             | x64  | [es-es_windows_server_2025_preview_x64_dvd_b07cc858.iso](https://drive.massgrave.dev/es-es_windows_server_2025_preview_x64_dvd_b07cc858.iso) |
 | French              | x64  | [fr-fr_windows_server_2025_preview_x64_dvd_036e8a78.iso](https://drive.massgrave.dev/fr-fr_windows_server_2025_preview_x64_dvd_036e8a78.iso) |
 | Hungarian           | x64  | [hu-hu_windows_server_2025_preview_x64_dvd_2d5d77e5.iso](https://drive.massgrave.dev/hu-hu_windows_server_2025_preview_x64_dvd_2d5d77e5.iso) |
